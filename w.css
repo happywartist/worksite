@@ -1,0 +1,122 @@
+body {
+      font-family:Verdana, Geneva, Arial, sans-serif;
+      line-height:1.6em;
+      front-size:130%;
+}
+
+h1 {
+    front-family:"Enblema One", sans-serif;
+    color:HotPink;
+    border-width:1px;
+    border-bottom: 1px solid black;
+    font-size:150%;
+}
+
+h2 {
+    color:DarkRed;
+    border-width:1px;
+    front-size:130%;
+    font-weight:normal;
+}
+
+
+#main {
+       font-family:Verdana, Geneva, Arial, sans-serif;
+       background:PowderBlue;
+       font-size:105%;
+       padding:15px;
+       margin:0px 10px 10px 10px;
+       width:420px;
+       float:left;
+}
+
+#my works {
+   font-family:Verdana, Geneva, Arial, sans-serif;
+   border-width:thin;
+   border-style:solid;
+   border-color:#007e7e;
+   width:200px;
+
+   padding-right:20px;
+   padding-bottom:20px;
+   padding-left:20px;
+
+   margin-left:20px;
+
+   text-align:center;
+}
+
+p {
+    color:maroon;
+}
+p.greentea {
+    color: green;
+}
+p.guarantee {
+      font-family:Verdana, Geneva, Arial, sans-serif;
+      line-height:1.9em;
+      color:#A52A2A;     
+      border-color:#46B2B4;
+      border-width:1px;
+      border-style:double;
+      background-color:#FFC0CB;
+      padding:25px;
+      margin:30px;
+      margin-right:10px;
+}
+
+#sidebar {
+          font-family:Verdana, Geneva, Arial, sans-serif;
+          background:PowderBlue;
+          font-size:105%;
+          padding:15px;
+          margin:0px 10px 10px 470px;
+}
+
+
+#footer {
+         background:SteelBlue;
+         color:#efe5d0;
+         text-align:center;
+         padding:15px;
+         margin:10px;
+         font-size:90%;
+         clear:left;
+}
+
+nav {
+     background-color:LightSkyBlue;
+     margin:10px 10px 0px 10px;
+}
+nav u1 {
+    margin:0px;
+    list-style-type:none;
+    padding:5px 0px 5px 0px;
+}
+nav ul li {
+       display:inline;
+       padding:5px 10px 5px 10px;
+}
+nav ul li a:link, nav ul li a:visited {
+   color:#954b4b;
+   border-bottom:none;
+   front-weight:bold;
+}
+nav ul li.selected {
+   background-color:#c8b99c;
+}
+
+
+td, th {
+    border:thin dotted gray;
+    padding:5px;
+}
+caption {
+    font-style:italic;
+    padding-top:8px;
+}
+
+th {
+    background-color:#cc6600;
+}
+
